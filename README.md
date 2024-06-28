@@ -11,6 +11,10 @@
  - Uses nano-style keybinds, just without ctrl/alt
 
 ### Planned Features
+ - Improve 'rendering' code to only redraw what changes to minimize flicker.
+ - Support for linux
+ - Support for non-x86_64 platforms
+ - Move away from using visual studio project files to a bash/batch script for building
  - loading and assembling a high-level assembley language
  - 'run until' - use breakpoints for now
  - 'step x times' - use breakpoints and single steps for now
